@@ -1,0 +1,14 @@
+html {
+    font-size: 62.5%;
+}
+
+.map--container {
+    width: 100%;
+    background: rgb(223, 217, 217);
+    padding: 1rem;
+}
+
+.leaflet-container {
+    width: 100wh;
+    height: 100vh;
+}

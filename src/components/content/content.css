@@ -1,0 +1,42 @@
+html {
+    font-size: 62.5%;
+}
+
+a {
+    all: unset;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+.main--content {
+    width: 100%;
+    background-color: #1D91C7;
+    color: white;
+    padding: 2rem 1rem;
+}
+
+.main--content-divtext {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.p--text {
+    margin-top: 3rem;
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+.btn{
+    background-color: rgb(41,198,119);
+    padding: 1rem 1.5rem;
+    border-radius: .5rem;
+    border-style: none;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 2rem auto;
+    text-align: center;
+}
